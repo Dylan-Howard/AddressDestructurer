@@ -1,0 +1,11 @@
+{
+  "name": "icaddresses.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Dylan Howard",
+  "license": "ISC"
+}

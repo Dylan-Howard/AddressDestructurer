@@ -1,0 +1,2482 @@
+Read 12500 addresses
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+undefined
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT|BUILDING|TRAILER|GARAGE BUILDING)\s*(\d|[a-z])+$/i,
+  action: 'leave this appartment number'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{
+  expression: /^(APT|SUITE|LOT|UNIT)\s*([a-z]|\d)+\s*(.+)$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{
+  expression: /^(\d|[a-z])+$/i,
+  action: 'leave this mixed appartment id'
+}
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+{ expression: /^[^a-z0-9]/i, action: 'do nothing' }
+--- Group Totals ---
+do nothing : 50
+leave this mixed appartment id : 22
+leave this appartment number : 0
+leave this appartment number : 0
+leave this mixed appartment id : 131
+leave this mixed appartment id : 0
+expand these ids : 0
+expand these apartment letters : 0
+expand these mixed appartment ids : 0
+expand these mixed appartment ids : 0
+split these groups, then leave these mixed appartment id : 0
+split these groups, then expand these multiple appartment numbers : 0
+Ungrouped : 1653
+Abandonded addresses: 10644
+

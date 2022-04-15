@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../TransformAddresses-InfiniteCampus"
+		},
+		{
+			"path": "../Mojo.js"
 		}
 	],
 	"settings": {}
